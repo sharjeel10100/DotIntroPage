@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/sharjeel/.pub-cache/hosted/pub.dev/google_api_headers-4.4.3/android"
+    name=":google_api_headers"
+    type="LIBRARY"
+    maven="io.github.zeshuaro.google_api_headers:google_api_headers:1.0-SNAPSHOT"
+    agpVersion="8.7.0"
+    buildFolder="/Users/sharjeel/mapp/build/google_api_headers"
+    bootClassPath="/Users/sharjeel/Library/Android/sdk/platforms/android-34/android.jar:/Users/sharjeel/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
